@@ -4,12 +4,14 @@
 # In[2]:
 
 
-#Function: round
-#Lang:python
+# ATOMIC FUNCTION: round
+# LANG:python
+# FUNCTION round(val, precision)
 
 start_val=1.2
 expected_end_val=1
-end_val=round(start_val,0)
+precision=0
+end_val=round(start_val,precision)
 
 #Test
 if(end_val==expected_end_val):

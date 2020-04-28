@@ -1,14 +1,14 @@
 public class Test {
     public static void main(String args[]){
-        //Atomic Function:round
-        //Lang:java
-        //function: Math.round(start_val)
+        // ATOMIC FUNCTION:round
+        // LANG:java
+        // FUNCTION: Math.round(start_val)
 
         double start_val=1.2;
         double expected_end_val=1;
         double end_val=Math.round(start_val);
 
-        //TEST
+        // TEST
         if(end_val==expected_end_val){
             System.out.println("PASS");
         }

@@ -1,4 +1,5 @@
 // ATOMIC_FUNCTION:  strlen($val)
+// TAGS: string, int
 // LANG:  node.js
 // FUNCTION: strlen($val) 
 

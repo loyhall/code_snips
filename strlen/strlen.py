@@ -3,6 +3,7 @@ def strlen(val):
     return len(val)
 
 # ATOMIC_FUNCTION:  strlen(val)
+# TAGS: string, int
 # LANG:  python
 # FUNCTION: strlen(val) 
 

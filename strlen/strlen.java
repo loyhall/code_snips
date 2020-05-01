@@ -1,5 +1,6 @@
 public class strlen {
     // ATOMIC_FUNCTION:  get_strlen(val)
+    // TAGS: string, int
     // LANG:  java
     // FUNCTION: get_strlen(val)
     public int get_strlen(String val){

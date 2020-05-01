@@ -3,6 +3,7 @@ def substr(start_val,start,length):
     return start_val[start:start+length]
 
 # ATOMIC_FUNCTION:  substr(val, start, length)
+# TAGS: string
 # LANG:  python
 # FUNCTION: substr(val, start, length) 
 

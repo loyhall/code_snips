@@ -1,5 +1,6 @@
 public class substr {
     // ATOMIC_FUNCTION:  get_substr($val, $start, $length)
+    // TAGS: string
     // LANG:  java
     // FUNCTION: get_substr($val, $start, $length)
     public String get_substr(String val,int start, int length){

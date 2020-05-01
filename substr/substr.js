@@ -1,4 +1,5 @@
 // ATOMIC_FUNCTION:  substr($val, $start, $length)
+// TAGS: string
 // LANG:  node.js
 // FUNCTION: substr($val, $start, $length) 
 

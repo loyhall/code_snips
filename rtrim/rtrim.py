@@ -4,6 +4,7 @@ def rtrim(start_val,del_char=" "):
 
 
 # ATOMIC_FUNCTION:  rtrim(val)
+# TAGS: string
 # LANG:  python
 # FUNCTION: rtrim(val) 
 

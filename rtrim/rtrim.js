@@ -1,4 +1,5 @@
 // ATOMIC_FUNCTION:  rtrim($val)
+// TAGS: string
 // LANG:  node.js
 // FUNCTION: rtrim($val) 
 function rtrim(str, chr) {

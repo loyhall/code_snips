@@ -1,5 +1,6 @@
 <?php
 // ATOMIC_FUNCTION:  rtrim($val)
+// TAGS: string
 // LANG:  php
 // FUNCTION: rtrim($val) 
 

@@ -1,4 +1,5 @@
 // ATOMIC_FUNCTION:  trim($val)
+// TAGS: string
 // LANG:  node.js
 // FUNCTION: trim($val) 
 

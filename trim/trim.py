@@ -4,6 +4,7 @@ def trim(start_val,del_char=" "):
 
 
 # ATOMIC_FUNCTION:  trim(val)
+# TAGS: string
 # LANG:  python
 # FUNCTION: trim(val) 
 

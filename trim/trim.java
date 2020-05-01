@@ -3,6 +3,7 @@ public class trim {
     public static void main(String args[]) {
 
         // ATOMIC_FUNCTION:  trim($val)
+        // TAGS: string
         // LANG:  java
         // FUNCTION: trim($val)
 

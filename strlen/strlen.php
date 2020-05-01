@@ -1,5 +1,6 @@
 <?php
 // ATOMIC_FUNCTION:  strlen($val)
+// TAGS: string, int 
 // LANG:  php
 // FUNCTION: strlen($val) 
 

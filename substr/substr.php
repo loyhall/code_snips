@@ -1,5 +1,6 @@
 <?php
 // ATOMIC_FUNCTION:  substr($val, $start, $length)
+// TAGS: string
 // LANG:  php
 // FUNCTION: substr($val, $start, $length) 
 

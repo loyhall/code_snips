@@ -1,4 +1,5 @@
 // ATOMIC_FUNCTION:  ltrim($val)
+// TAGS: string
 // LANG:  node.js
 // FUNCTION: ltrim($val) 
 function ltrim(str, chr) {

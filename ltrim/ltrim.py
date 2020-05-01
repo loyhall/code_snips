@@ -3,6 +3,7 @@ def ltrim(start_val,del_char=" "):
 
 
 # ATOMIC_FUNCTION:  ltrim(val)
+# TAGS: string
 # LANG:  python
 # FUNCTION: ltrim(val) 
 
